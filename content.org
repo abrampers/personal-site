@@ -12,14 +12,13 @@
 
 ** DONE WWDC19: Best Dub-Dub ever!                         :tech:conference:
 :PROPERTIES:
-:EXPORT_FILE_NAME: 2019-06-25-asdfasdf
+:EXPORT_FILE_NAME: 2019-06-25-wwdc
 :END:
 
 This year, I’m very lucky to be one of the WWDC19 Scholarship Winner from Indonesia to attend Apple’s event of the year. It’s obviously the best Dub-Dub ever since it’s my first time here! Dub-Dub 19 is an event packed with awesome things and I’m going to tell my story from the complete beginning. Here we go!
 
 #+caption: HMIF ITB @ WWDC19 (Nicho, Abram, and Faza)
 #+name: fig__group_image
-#+attr_css: :width 80%
 https://cdn-images-1.medium.com/max/6048/1*mMUmHriJt0p8Y2Z46gBZGw.jpeg
 
 *** What is WWDC?
@@ -52,7 +51,6 @@ I’ve created a simple introduction to *Metal *using MetalKitnamed **Metalify**
 
 #+caption: Scholarship email!
 #+name: fig__email_image
-#+attr_css: :width 80%
 https://cdn-images-1.medium.com/max/2544/1*O64rdYG16VbLC7NK_cnA9g.png
 
 On another beautiful morning — Monday, April 15, 2019 — I received this email and my heart stopped for a second. Man! I got this. I was one of 350 students worldwide that got the scholarship. That was the best day of my college life yet 🤖.
@@ -73,12 +71,10 @@ https://cdn-images-1.medium.com/max/6048/1*7sfvKXgFy2aoxf9QTMHpKQ.jpeg
 
 After checking in, all the scholarship winner were scheduled to attend scholarship kickoff where Esther Hare [@EEhare](https://twitter.com/eehare?lang=en) was there to give a little talk. She encouraged us to talk to as many people as we can, whether it’s fellow scholars, developers, or even Apple engineers. And the coolest thing here is that there were plenty of Apple engineers standing by for us to talk to. I was very excited since I never had any chance to get to meet, better yet, talk to the engineers that build Apple. Besides, there were plenty of food trucks and drinks all over the place..
 
-#+caption: Beautiful weather @ Discovery Meadow with Indonesian scholarship winners
 #+name: fig__kickoff1_image
-#+attr_css: :width 45%
 https://cdn-images-1.medium.com/max/12000/1*Vu7eITgS5sivMkDNtPuOPw.jpeg
+#+caption: Beautiful weather @ Discovery Meadow with Indonesian scholarship winners
 #+name: fig__kickoff2_image
-#+attr_css: :width 45%
 https://cdn-images-1.medium.com/max/2250/1*ogZQRMEFWxEP8y9bQvQ2jw.jpeg
 
 After the kickoff, a few of Indonesian scholars gather around and did a vlog about the Dub Dub. Here we go!
@@ -118,13 +114,10 @@ All the Dub Dub attendee got the chance to visit the Pro Studio across the Conve
 For the rest of the week, there were plenty of sessions and labs conducted all over the Convention Center. Sessions are more like seminars conducted by Apple where they showcase best practices, reveal new features in more detail, and give a bit of demo. Labs are the place to go if you have a bug, question, or a feature request and give it right to the engineers that work on that particular feature. Awesome! We could actually ask the person who was in charge of the product. What a way to solve a bug.
 
 #+name: fig__sessionlabs1_image
-#+attr_css: :width 32%
 https://cdn-images-1.medium.com/max/8064/1*ZsvETrvysoT60qinnSB5yw.jpeg
 #+name: fig__sessionlabs2_image
-#+attr_css: :width 32%
 https://cdn-images-1.medium.com/max/8064/1*G0I23P7UxXG8_cbAa94LIA.jpeg
 #+name: fig__sessionlabs3_image
-#+attr_css: :width 32%
 https://cdn-images-1.medium.com/max/2000/1*lT-EgnL2S5TZziXPU5-j9w.jpeg
 
 **** Games, Sporting Events, and WWDC Bash!
@@ -135,15 +128,12 @@ Throughout the week they conducted an AR game called SwiftStrike. It is a bowlin
 
 On the last night, Apple also invited the Weezers to the WWDC Bash (some kind of get-together concert) where we can chill out, enjoy the concert, and play games!
 
-#+caption: HIIT Morning Workout, SwiftStrike, and WWDC19 Bash!
 #+name: fig__hiit1_image
-#+attr_css: :width 32%
 https://cdn-images-1.medium.com/max/2250/1*AiXv107iWKkFjHNFwlXAFQ.jpeg
 #+name: fig__hiit2_image
-#+attr_css: :width 32%
 https://cdn-images-1.medium.com/max/2250/1*a3GP1NeLhRs4ZSV0wcYW9Q.jpeg
+#+caption: HIIT Morning Workout, SwiftStrike, and WWDC19 Bash!
 #+name: fig__hiit3_image
-#+attr_css: :width 32%
 https://cdn-images-1.medium.com/max/2000/1*-YJKq5HbYbGyURfclQbyBw.jpeg
 
 *** Lesson learned
@@ -159,21 +149,17 @@ The third and final thing is to never, ever underestimate a person, stay humble 
 After all, WWDC is a networking opportunity for many people. We can always see the sessions online, but the chance to speak with random people when queueing for the line is special. We never know what a short conversation with some random guy at Dub Dub can bring us.
 
 #+begin_quote
-\# Pro tip: Bring your business card and talk to as many people as you can @ WWDC
+*Pro tip*: Bring your business card and talk to as many people as you can @ WWDC
 #+end_quote
 
-#+caption: Don't be shy and make new friends @ WWDC
 #+name: fig__friends1_image
-#+attr_css: :width 45%
 https://cdn-images-1.medium.com/max/8064/1*d2QcqQotYDs202ALyQAdqg.jpeg
 #+name: fig__friends2_image
-#+attr_css: :width 45%
 https://cdn-images-1.medium.com/max/8064/1*vX4kZveZpYSZ4W9krHvhFw.jpeg
 #+name: fig__friends3_image
-#+attr_css: :width 45%
 https://cdn-images-1.medium.com/max/8064/1*jr4w2Xikvy-La1rBAEWq2g.jpeg
+#+caption: Don't be shy and make new friends @ WWDC
 #+name: fig__friends4_image
-#+attr_css: :width 45%
 https://cdn-images-1.medium.com/max/8064/1*Jo4PpChs5Mev8yYoKoAQng.jpeg
 
 This article can’t 100% express how I felt before and after WWDC, but I hope this will inspire many people to find their way to WWDC.
