@@ -1,7 +1,8 @@
 +++
 title = "Intercepting HTTP/2 Packets without Wireshark"
 author = ["Abram Perdanaputra"]
-draft = true
+date = 2020-03-12T23:19:00+07:00
+draft = false
 +++
 
 <div class="ox-hugo-toc toc local">
