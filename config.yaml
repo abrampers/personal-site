@@ -1,11 +1,30 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
 title: "My New Hugo Site"
-theme: "kiss"
+theme: "anubis"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      title: About
+      url: /about/
+      weight: 2
+    - identifier: tags
+      name: Tags
+      title: Tags
+      url: /tags/
+      weight: 2
+    - identifier: archive
+      name: Archive
+      title: Archive
+      url: /blog/
+      weight: 0
 
 params:
-  info:
-    codeCopy: true
+  paginationSinglePost: true
+  style: auto
+  readMore: true
 
 markup:
   highlight:

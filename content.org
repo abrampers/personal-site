@@ -1,5 +1,13 @@
 #+hugo_base_dir: .
 
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: about
+:END:
+
+asdfadsf
+
 * blog
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: blog
@@ -185,7 +193,6 @@ Hope to see more of Indonesians (especially **HMIF ITB**) @ Dub Dub 2020!
 **** References
 
 - Pictures by [[https://twitter.com/SwapnanilDhol][@SwapnanilDhol]] and Apple
-** Footnotes
 ** TODO Intercepting HTTP/2 Packets without Wireshark
 :PROPERTIES:
 :EXPORT_FILE_NAME: intercepting-http-2-packets-without-wireshark
@@ -426,6 +433,7 @@ func main() {
 *** Conclusion
 
 Using Go's native HTTP support and Gopacket, we could build a packet interception program for HTTP/2. For further HTTP/2 header processing, we could also use =net/http2/hpack= package to do the HPACK decoding and encoding.
+* Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
 
 # Local Variables:
