@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["Abram Perdanaputra"]
-draft = false
+draft = true
 +++
 
 asdfadsf

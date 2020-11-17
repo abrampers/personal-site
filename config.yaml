@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "http://abrampers.com/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "abrampers.com"
 theme: "anubis"
 
 menu:
