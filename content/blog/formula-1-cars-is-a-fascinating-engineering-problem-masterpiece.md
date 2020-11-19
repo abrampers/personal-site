@@ -17,7 +17,7 @@ draft = false
 </div>
 <!--endtoc-->
 
-{{< figure src="/images/f1-vettel-ferrari.jpg" caption="Figure 1: Sebastian Vettel on his Ferrari (Photo by [Sven Brandsma](https://unsplash.com/@seffen99?utm%5Fsource=unsplash&utm%5Fmedium=referral&utm%5Fcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/formula-1?utm%5Fsource=unsplash&utm%5Fmedium=referral&utm%5Fcontent=creditCopyText))" >}}
+{{< figure src="/images/f1-vettel-ferrari.jpg" caption="Figure 1: Sebastian Vettel on his Ferrari (Photo by [Sven Brandsma](https://unsplash.com/@seffen99?utm%5Fsource=unsplash&utm%5Fmedium=referral&utm%5Fcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/formula-1?utm%5Fsource=unsplash&utm%5Fmedium=referral&utm%5Fcontent=creditCopyText))" width="800" >}}
 
 > How incredible all the cars on the grid are. Every one of those machines are extreme in a way that it is hard to comprehend unless you work inside a team or unless you physically stand in the fast corner and be really close to it and watching it as it goes to a corner. Because only then you can really, really appreciate how utterly amazing the performace is.
 >
@@ -88,7 +88,7 @@ In the next section, I’ll explain in detail of what each major components do a
 
 Currently, F1 cars use hybrid power unit with 4 stroke internal combustion engine. The power unit will generate power by suck, squeeze, bang, blow phases on the fuel. The fuel will flow from the tank to the engine cylinders in a regulated rate. So no team can cheat by having more fuel per amount of time. The power generated will turn the axle who’s connected to the gearbox. The gearbox’s purpose here is to make sure the engine is operating in the optimal RPM to produce the maximum amount of power.
 
-{{< figure src="/images/f1-austria-neutral-lap.png" caption="Figure 2: Power generation on particular point in the lap [3]" >}}
+{{< figure src="/images/f1-austria-neutral-lap.png" caption="Figure 2: Power generation on particular point in the lap [3]" width="800" >}}
 
 In the image above, we can see where the power is coming from at any point in the track. This is one of the neutral cases. It will have a different setup for more aggressive or conservative mode.
 
