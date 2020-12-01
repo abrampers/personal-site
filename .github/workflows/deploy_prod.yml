@@ -35,8 +35,7 @@ jobs:
       - name: Configure git credentials
         uses: OleksiyRudenko/gha-git-credentials@v2
         with:
-          email: ${{ secrets.EMAIL }}
-          name: ${{ secrets.NAME }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       # Runs a set of commands using the runners shell
       - name: Build & Deploy
