@@ -31,6 +31,12 @@ jobs:
         uses: webfactory/ssh-agent@v0.4.1
         with:
           ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+          
+      - name: Configure git credentials
+        uses: OleksiyRudenko/gha-git-credentials@v2
+        with:
+          email: ${{ secrets.EMAIL }}
+          name: ${{ secrets.NAME }}
 
       # Runs a set of commands using the runners shell
       - name: Build & Deploy
