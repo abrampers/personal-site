@@ -1,6 +1,6 @@
-baseURL: "http://abrampers.com/"
+baseURL: "https://abram.id"
 languageCode: "en-us"
-title: "abrampers.com"
+title: "abram.id"
 theme: "anubis"
 
 menu:
