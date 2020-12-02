@@ -12,6 +12,10 @@ cd public
 
 git add .
 
+# Fill in credentials
+git config --global user.name "$USER_NAME"
+git config --global user.email "$USER_EMAIL"
+
 # Commit changes.
 msg="rebuilding site HUGO:$(date)"
 if [ -n "$*" ]; then
