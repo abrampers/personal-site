@@ -13,8 +13,8 @@ cd public
 git add .
 
 # Fill in credentials
-git config --local user.name $USER_NAME
-git config --local user.email $USER_EMAIL
+git config --global user.name "$USER_NAME"
+git config --global user.email "$USER_EMAIL"
 
 # Commit changes.
 msg="rebuilding site HUGO:$(date)"
