@@ -21,21 +21,16 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-        with:
-          submodules: true
 
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.4.13
 
-      - name: Install SSH Client 🔑
-        uses: webfactory/ssh-agent@v0.4.1
+      - name: Clone github pages repo
+        uses: actions/checkout@v2
         with:
-          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-          
-      - name: Configure git credentials
-        uses: OleksiyRudenko/gha-git-credentials@v2
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repository: abrampers/abrampers.github.io
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+          path: public
 
       # Runs a set of commands using the runners shell
       - name: Build & Deploy
