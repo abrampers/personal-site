@@ -99,26 +99,26 @@ Other than [the positive investments](#investments), I've always wanted to inves
 There are many aspects I have to improve on 2020. Here's some notable aspects.
 
 
-### Spiritual {#spiritual}
+#### Spiritual {#spiritual}
 
 In 2019 I had a fairly good spiritual life. I had IMAB and regularly went to church meeting friends there. Now in the age of Church from home, I must have more self initiative morning meditation/devotion, and reading scriptures. My goal for 2020: read the whole Bible in 2021.
 
 
-### Reading Books {#reading-books}
+#### Reading Books {#reading-books}
 
 I have bought many books and my goal is to read at least 1 technical book and 1 non technical book by Q1 2021. I hope I can raise up the bar in Q2 2021.
 
 
-### Physical Fitness {#physical-fitness}
+#### Physical Fitness {#physical-fitness}
 
 Even if I hate gym, I have to go to the gym once COVID is over to get my body to fit again. My goal is by the end of 2021, I'll be as fit as I am before COVID.
 
 
-### Social life {#social-life}
+#### Social life {#social-life}
 
 No specific accountable goal on this aspect. I have to have new community in the new environment I'm in.
 
 
-### New habits {#new-habits}
+#### New habits {#new-habits}
 
 I'm aspired to do quarterly review for my life in general. Just so I know what have I done in the previous 3 months and plan to improve my life for the next 3 months. By doing this, I hope that I can continuously track my life's progression.
