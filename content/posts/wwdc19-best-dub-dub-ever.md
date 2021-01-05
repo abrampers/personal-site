@@ -20,7 +20,7 @@ draft = false
 
 This year, I’m very lucky to be one of the WWDC19 Scholarship Winner from Indonesia to attend Apple’s event of the year. It’s obviously the best Dub-Dub ever since it’s my first time here! Dub-Dub 19 is an event packed with awesome things and I’m going to tell my story from the complete beginning. Here we go!
 
-<a id="org1cc749e"></a>
+<a id="org3c67d06"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/6048/1*mMUmHriJt0p8Y2Z46gBZGw.jpeg" caption="Figure 1: HMIF ITB @ WWDC19 (Nicho, Abram, and Faza)" >}}
 
@@ -53,7 +53,7 @@ This problem forced me to find something outstanding that works and was good eno
 
 I’ve created a simple introduction to **Metal** using MetalKit named **Metalify**. Here's the [playground](https://github.com/abrampers/WWDC19-Submission) if you'd like to try it on your own.
 
-<a id="orgff84f90"></a>
+<a id="org7e024f8"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/2544/1*O64rdYG16VbLC7NK_cnA9g.png" caption="Figure 2: Scholarship email!" >}}
 
@@ -69,7 +69,7 @@ As a scholarship winner, they told me that we would get free WWDC ticket, free l
 
 Fast forward to the Dub Dub week, we got to check in at the convention center and received some Dub Dub Swag for us to wear for the rest of the week. We got a reversible bomber jacket, a Scholarship Winner T-Shirt, and a few random pins including Indonesian Flag’s pin.
 
-<a id="orgd10a3cb"></a>
+<a id="orgf8a9a02"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/6048/1*7sfvKXgFy2aoxf9QTMHpKQ.jpeg" caption="Figure 3: Bomber jacket + small Tim Cook pin" >}}
 
@@ -78,11 +78,11 @@ Fast forward to the Dub Dub week, we got to check in at the convention center an
 
 After checking in, all the scholarship winner were scheduled to attend scholarship kickoff where Esther Hare [@EEhare](<https://twitter.com/eehare?lang=en>) was there to give a little talk. She encouraged us to talk to as many people as we can, whether it’s fellow scholars, developers, or even Apple engineers. And the coolest thing here is that there were plenty of Apple engineers standing by for us to talk to. I was very excited since I never had any chance to get to meet, better yet, talk to the engineers that build Apple. Besides, there were plenty of food trucks and drinks all over the place..
 
-<a id="org5798eb8"></a>
+<a id="org094c56c"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/12000/1*Vu7eITgS5sivMkDNtPuOPw.jpeg" >}}
 
-<a id="org527b7a5"></a>
+<a id="orga2bcbd9"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/2250/1*ogZQRMEFWxEP8y9bQvQ2jw.jpeg" caption="Figure 4: Beautiful weather @ Discovery Meadow with Indonesian scholarship winners" >}}
 
@@ -95,7 +95,7 @@ After the kickoff, a few of Indonesian scholars gather around and did a vlog abo
 
 The long awaited keynote was there and many people called this ‘the most packed WWDC Keynote ever’. This includes the announcement of the brand new Mac Pro, iPad OS, iOS 13, macOS Catalina and the SwiftUI & Combine which were the star for the rest of the week.
 
-<a id="orgc9a5b20"></a>
+<a id="org46103fa"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/3264/1*7IDRGBs7cyfjNYCb4eQ9Sg.jpeg" >}}
 
@@ -108,14 +108,14 @@ Project Catalyst had also brought huge possibilities since it enables developer 
 
 Scholars were given the privilege to chill and have a chit chat with fellow scholars throughout the week at the scholarship lounge. Here, we were given a wired 10MBps connection to try all the Betas they announced.
 
-<a id="org0c0a572"></a>
+<a id="org9b19914"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/11228/1*HgGxRO1iodwpL36HH254nA.jpeg" caption="Figure 5: Scholarship lounge: Our home" >}}
 
 
 ### Pro studio {#pro-studio}
 
-<a id="org5d6e9bc"></a>
+<a id="orgaec5fc8"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*kmCk6hBke2b9lhluc6R04g.jpeg" caption="Figure 6: The recently announced Mac Pro" >}}
 
@@ -126,15 +126,15 @@ All the Dub Dub attendee got the chance to visit the Pro Studio across the Conve
 
 For the rest of the week, there were plenty of sessions and labs conducted all over the Convention Center. Sessions are more like seminars conducted by Apple where they showcase best practices, reveal new features in more detail, and give a bit of demo. Labs are the place to go if you have a bug, question, or a feature request and give it right to the engineers that work on that particular feature. Awesome! We could actually ask the person who was in charge of the product. What a way to solve a bug.
 
-<a id="org4732042"></a>
+<a id="org1fcdb05"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*ZsvETrvysoT60qinnSB5yw.jpeg" >}}
 
-<a id="org163f178"></a>
+<a id="org2f156f6"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*G0I23P7UxXG8_cbAa94LIA.jpeg" >}}
 
-<a id="org3812522"></a>
+<a id="orgfd45f6c"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/2000/1*lT-EgnL2S5TZziXPU5-j9w.jpeg" >}}
 
@@ -147,15 +147,15 @@ Throughout the week they conducted an AR game called SwiftStrike. It is a bowlin
 
 On the last night, Apple also invited the Weezers to the WWDC Bash (some kind of get-together concert) where we can chill out, enjoy the concert, and play games!
 
-<a id="org6c51884"></a>
+<a id="orgf6579ce"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/2250/1*AiXv107iWKkFjHNFwlXAFQ.jpeg" >}}
 
-<a id="org49b01c3"></a>
+<a id="org9c13e5d"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/2250/1*a3GP1NeLhRs4ZSV0wcYW9Q.jpeg" >}}
 
-<a id="orgbf9f882"></a>
+<a id="org6aca42d"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/2000/1*-YJKq5HbYbGyURfclQbyBw.jpeg" caption="Figure 7: HIIT Morning Workout, SwiftStrike, and WWDC19 Bash!" >}}
 
@@ -175,19 +175,19 @@ After all, WWDC is a networking opportunity for many people. We can always see t
 
 > **Pro tip**: Bring your business card and talk to as many people as you can @ WWDC
 
-<a id="orgf6a5ab8"></a>
+<a id="org89b2bfb"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*d2QcqQotYDs202ALyQAdqg.jpeg" >}}
 
-<a id="org7210ea6"></a>
+<a id="org774bfe0"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*vX4kZveZpYSZ4W9krHvhFw.jpeg" >}}
 
-<a id="org3c97240"></a>
+<a id="orgb264573"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*jr4w2Xikvy-La1rBAEWq2g.jpeg" >}}
 
-<a id="org2df265b"></a>
+<a id="org3d49ace"></a>
 
 {{< figure src="https://cdn-images-1.medium.com/max/8064/1*Jo4PpChs5Mev8yYoKoAQng.jpeg" caption="Figure 8: Don't be shy and make new friends @ WWDC" >}}
 

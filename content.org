@@ -6,11 +6,11 @@
 :EXPORT_FILE_NAME: about
 :END:
 
-asdfadsf
+asdfadsf asdfsfad
 
-* blog
+* posts
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: blog
+:EXPORT_HUGO_SECTION: posts
 :END:
 
 ** DONE WWDC19: Best Dub-Dub ever!                         :tech:conference:
@@ -1076,7 +1076,6 @@ If you're interested in how this library is designed, go to [[https://www.pointf
 :END:
 #+toc: headlines 1 local
 
-
 *** Prelude
 
 *** Configuration
@@ -1093,11 +1092,17 @@ If you're interested in how this library is designed, go to [[https://www.pointf
 
 *** Speed
 
-** TODO 2020: Year In Review
+** DONE 2020: Year In Review
+CLOSED: [2021-01-05 Tue 22:39]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2020-year-in-review
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-05 Tue 22:39]
+- State "DONE"       from "TODO"       [2021-01-05 Tue 22:33]
+:END:
 #+toc: headlines 1 local
+
 
 2020 had been a bad but a year full of blessings for me. Here's the review.
 

@@ -18,7 +18,7 @@ menu:
     - identifier: archive
       name: Archive
       title: Archive
-      url: /blog/
+      url: /posts/
       weight: 0
 
 params:

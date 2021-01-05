@@ -1,7 +1,8 @@
 +++
 title = "2020: Year In Review"
 author = ["Abram Perdanaputra"]
-draft = true
+date = 2021-01-05T22:39:00+07:00
+draft = false
 +++
 
 <div class="ox-hugo-toc toc local">
