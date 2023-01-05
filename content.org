@@ -1,12 +1,16 @@
 #+hugo_base_dir: .
 
-* TODO About
+* DONE About
+CLOSED: [2023-01-05 Thu 11:18]
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: about
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-05 Thu 11:18]
+:END:
 
-asdfadsf asdfsfad
+Hi my name is Abram. I promise I'll work ono this page soon.
 
 * posts
 :PROPERTIES:
