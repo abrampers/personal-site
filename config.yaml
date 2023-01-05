@@ -1,6 +1,6 @@
-baseURL: "https://abram.id"
+baseURL: "https://abrampers.github.io"
 languageCode: "en-us"
-title: "abram.id"
+title: "abram's blog"
 theme: "anubis"
 
 menu:
